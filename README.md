@@ -16,7 +16,7 @@ I build web apps with **JavaScript, HTML and CSS**, and I care about writing cle
 **[Employee Dashboard](https://github.com/iulian640/employee-dashboard)** — [live demo](https://iulian640.github.io/employee-dashboard/)
 Admin dashboard to manage employees: login with form validation, data fetched from an external API, A–Z filtering and a responsive UI. Built with vanilla JS modules and covered by **unit tests (Vitest)** and **end-to-end tests (Playwright)**.
 
-**[Little Red Riding Hood](https://github.com/iulian640/red-ridding-hood)** — [live demo](https://iulian640.github.io/red-ridding-hood/)
+**[Little Red Riding Hood](https://github.com/iulian640/red-ridding-hood)** — [live demo](https://iulian640.github.io/red-riding-hood/)
 A magazine-style retelling of the classic tale, built to practice **semantic HTML** and modern **CSS layout** (Grid, drop caps, responsive typography).
 
 ## 📫 How to reach me
