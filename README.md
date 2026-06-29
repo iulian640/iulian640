@@ -59,7 +59,7 @@ Admin dashboard for employee management: authentication flow with form validatio
 
 ---
 
-### Psicología Landing &nbsp;·&nbsp; [repo](https://github.com/iulian640/psicologa-landing)
+### Psicología Landing &nbsp;·&nbsp; [repo](https://github.com/iulian640/psicologa-landing) · [live demo](https://psicologialanding.netlify.app/)
 
 Production-ready landing page for a psychology practice, built with AI assistance. This was a deliberate choice: I wanted hands-on experience with a modern stack I had not yet used in training, working alongside an AI tool the same way a professional would. Outcome: a deployed site with a **serverless contact form via Resend**, scroll animations with **Motion**, GDPR compliance, and SEO foundations.
 
