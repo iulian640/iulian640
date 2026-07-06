@@ -91,5 +91,5 @@ Also deepening SQL and web accessibility through the Factoría F5 curriculum. Ev
 I am actively looking for my first junior developer role — based in Spain or remote in Europe.
 
 - **Email:** [iuliantim21@gmail.com](mailto:iuliantim21@gmail.com)
-- **LinkedIn:** [linkedin.com/in/iulian-tim-06a816242](https://www.linkedin.com/in/iulian-tim-06a816242/)
+- **LinkedIn:** [linkedin.com/in/iulian-timofei-06a816242](https://www.linkedin.com/in/iulian-timofei-06a816242/)
 - **Location:** Oviedo, Asturias, Spain
