@@ -2,7 +2,7 @@
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
-Before I wrote code, I ran a kitchen. That career built precision, the habit of caring about every detail, and the ability to stay calm when things go wrong — all of which transfer directly into software. I made a deliberate decision to change paths and I am now one month into a fullstack bootcamp at [Factoría F5](https://factoriaf5.org/) in Asturias. I already write tested, real-world projects.
+Before I wrote code, I ran a kitchen. That career built precision, the habit of caring about every detail, and the ability to stay calm when things go wrong — all of which transfer directly into software. I made a deliberate decision to change paths and I am now training full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack bootcamp in Asturias — Java & Spring Boot on the backend, Vue.js on the frontend, SQL underneath. I already write tested, real-world projects.
 
 ---
 
@@ -10,6 +10,8 @@ Before I wrote code, I ran a kitchen. That career built precision, the habit of 
 
 **Languages & Frameworks**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -21,6 +23,7 @@ Before I wrote code, I ran a kitchen. That career built precision, the habit of 
 
 **Testing**
 
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
@@ -77,7 +80,9 @@ Magazine-style retelling of the classic tale. Built to solidify semantic HTML5, 
 
 ## Currently building
 
-Deepening my work with Vue.js, SQL, and web accessibility through the Factoría F5 curriculum. Every project I ship gets tests.
+**[IulianLounge](https://github.com/iulian640/iulianlounge-backend)** — my fullstack capstone: a Java/Spring Boot REST API ([backend](https://github.com/iulian640/iulianlounge-backend)) powering a 3D speakeasy experience on the web ([frontend](https://github.com/iulian640/iulianlounge-frontend), Vue 3 + Three.js). Managed with Jira sprints, built with TDD.
+
+Also deepening SQL and web accessibility through the Factoría F5 curriculum. Every project I ship gets tests.
 
 ---
 
