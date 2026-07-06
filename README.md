@@ -46,9 +46,9 @@ Spanish DNI validation tool built with vanilla JS ES Modules. The architecture i
 
 ---
 
-### The Universe of Things &nbsp;·&nbsp; [repo](https://github.com/iulian640/project-p5-digital-academy-team1-the-univers-of-things)
+### FPS — Frontenders Programando Sin Dormir &nbsp;·&nbsp; [repo](https://github.com/iulian640/project-p5-digital-academy-team1-the-univers-of-things) · [live demo](https://factoriaf5-asturias.github.io/project-p5-digital-academy-team1-the-univers-of-things/)
 
-Team project built with **Vue.js** at Factoría F5. Practised a real agile workflow: sprint planning, daily standups, Git branching strategy, pull request reviews, and merge conflict resolution. Built to mirror conditions in a professional dev team, not a solo exercise.
+Videogame collection SPA built with **Vue.js** by a team of 4 at Factoría F5: auth with user/admin roles, favourites CRUD with star ratings, and avatar upload to Firebase Storage. Practised a real agile workflow: sprint planning, daily standups, Git branching strategy, pull request reviews, and merge conflict resolution.
 
 `Vue.js` `Agile workflow` `Git branching` `Pull requests` `Team collaboration`
 
