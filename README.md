@@ -2,7 +2,7 @@
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
-Before I wrote code, I ran a kitchen. That career built precision, the habit of caring about every detail, and the ability to stay calm when things go wrong — all of which transfer directly into software. I made a deliberate decision to change paths and I am now training full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack bootcamp in Asturias — Java & Spring Boot on the backend, Vue.js on the frontend, SQL underneath. I already write tested, real-world projects.
+Before I wrote code, I ran a kitchen. That job taught me precision and how to stay calm when everything goes wrong at once. Both transfer directly into software. I changed paths on purpose, and now I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack bootcamp in Asturias: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. I already write tested, real-world projects.
 
 ---
 
@@ -40,7 +40,7 @@ Before I wrote code, I ran a kitchen. That career built precision, the habit of 
 
 ### DNI Checker &nbsp;·&nbsp; [repo](https://github.com/iulian640/dni-checker) · [live demo](https://iulian640.github.io/dni-checker/)
 
-Spanish DNI validation tool built with vanilla JS ES Modules. The architecture is deliberately modular — each validation concern lives in its own file rather than one tangled script. Covered by **14 unit tests with Vitest** that exercise every valid and invalid input scenario.
+Spanish DNI validation tool built with vanilla JS ES Modules. Each validation concern lives in its own file instead of one tangled script. Covered by 14 Vitest unit tests that exercise every valid and invalid input.
 
 `JavaScript` `ES Modules` `Modular architecture` `Input validation` `Vitest`
 
@@ -48,7 +48,7 @@ Spanish DNI validation tool built with vanilla JS ES Modules. The architecture i
 
 ### FPS — Frontenders Programando Sin Dormir &nbsp;·&nbsp; [repo](https://github.com/iulian640/project-p5-digital-academy-team1-the-univers-of-things) · [live demo](https://factoriaf5-asturias.github.io/project-p5-digital-academy-team1-the-univers-of-things/)
 
-Videogame collection SPA built with **Vue.js** by a team of 4 at Factoría F5: auth with user/admin roles, favourites CRUD with star ratings, and avatar upload to Firebase Storage. Practised a real agile workflow: sprint planning, daily standups, Git branching strategy, pull request reviews, and merge conflict resolution.
+Videogame collection SPA built with Vue.js by a team of 4 at Factoría F5: auth with user/admin roles, favourites CRUD with star ratings, and avatar upload to Firebase Storage. We worked the way a professional team does: sprint planning, daily standups, Git branching, pull request reviews, and merge conflict resolution.
 
 `Vue.js` `Agile workflow` `Git branching` `Pull requests` `Team collaboration`
 
@@ -56,7 +56,7 @@ Videogame collection SPA built with **Vue.js** by a team of 4 at Factoría F5: a
 
 ### Employee Dashboard &nbsp;·&nbsp; [repo](https://github.com/iulian640/employee-dashboard) · [live demo](https://iulian640.github.io/employee-dashboard/)
 
-Admin dashboard for employee management: authentication flow with form validation, data fetched from an external API, A–Z sorting, and a responsive UI. Tested at two levels — **unit tests with Vitest** and **end-to-end tests with Playwright** covering full user journeys.
+Admin dashboard for employee management: authentication flow with form validation, data fetched from an external API, A–Z sorting, and a responsive UI. Tested at two levels: unit tests with Vitest, and end-to-end tests with Playwright that cover full user journeys.
 
 `JavaScript` `ES Modules` `External API` `Form validation` `Vitest` `Playwright`
 
@@ -64,7 +64,7 @@ Admin dashboard for employee management: authentication flow with form validatio
 
 ### Psicología Landing &nbsp;·&nbsp; [repo](https://github.com/iulian640/psicologa-landing) · [live demo](https://psicologialanding.netlify.app/)
 
-Production-ready landing page for a psychology practice, built with AI assistance. This was a deliberate choice: I wanted hands-on experience with a modern stack I had not yet used in training, working alongside an AI tool the same way a professional would. Outcome: a deployed site with a **serverless contact form via Resend**, scroll animations with **Motion**, GDPR compliance, and SEO foundations.
+Landing page for a psychology practice, built with AI assistance. That was the point: I wanted hands-on experience with a stack I had not yet used in training, working with an AI tool the way a professional would. The result is a deployed site with a serverless contact form via Resend, scroll animations with Motion, GDPR pages, and SEO foundations.
 
 `Next.js 15` `TypeScript` `Tailwind CSS v4` `Motion` `Resend` `GDPR` `SEO`
 
@@ -72,7 +72,7 @@ Production-ready landing page for a psychology practice, built with AI assistanc
 
 ### Little Red Riding Hood &nbsp;·&nbsp; [repo](https://github.com/iulian640/red-riding-hood) · [live demo](https://iulian640.github.io/red-riding-hood/)
 
-Magazine-style retelling of the classic tale. Built to solidify semantic HTML5, CSS Grid layout, drop caps, and responsive typography — the fundamentals that everything else depends on.
+Magazine-style retelling of the classic tale. Built to nail the fundamentals: semantic HTML5, CSS Grid layout, drop caps, and responsive typography.
 
 `HTML5` `CSS Grid` `Responsive typography` `Semantic markup`
 
@@ -80,7 +80,7 @@ Magazine-style retelling of the classic tale. Built to solidify semantic HTML5, 
 
 ## Currently building
 
-**[IulianLounge](https://github.com/iulian640/iulianlounge-backend)** — my fullstack capstone: a Java/Spring Boot REST API ([backend](https://github.com/iulian640/iulianlounge-backend)) powering a 3D speakeasy experience on the web ([frontend](https://github.com/iulian640/iulianlounge-frontend), Vue 3 + Three.js). Managed with Jira sprints, built with TDD.
+My fullstack capstone, **[IulianLounge](https://github.com/iulian640/iulianlounge-backend)**: a Java/Spring Boot REST API ([backend](https://github.com/iulian640/iulianlounge-backend)) powering a 3D speakeasy on the web ([frontend](https://github.com/iulian640/iulianlounge-frontend), Vue 3 + Three.js). Managed with Jira sprints, built with TDD.
 
 Also deepening SQL and web accessibility through the Factoría F5 curriculum. Every project I ship gets tests.
 
@@ -88,7 +88,7 @@ Also deepening SQL and web accessibility through the Factoría F5 curriculum. Ev
 
 ## Let's connect
 
-I am actively looking for my first junior developer role — based in Spain or remote in Europe.
+I am looking for my first junior developer role, in Spain or remote in Europe.
 
 - **Email:** [iuliantim21@gmail.com](mailto:iuliantim21@gmail.com)
 - **LinkedIn:** [linkedin.com/in/iulian-timofei-06a816242](https://www.linkedin.com/in/iulian-timofei-06a816242/)
