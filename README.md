@@ -38,6 +38,14 @@ Before I wrote code, I ran a kitchen. That job taught me precision and how to st
 
 ## Projects
 
+### safe-harbor &nbsp;·&nbsp; [repo](https://github.com/iulian640/claude-safe-harbor)
+
+An open-source [Claude Code](https://claude.com/claude-code) skill I built to fix a problem I kept hitting: a long AI-assisted session dies on a usage or token limit and takes every unsaved change with it. safe-harbor stops on purpose before that happens. It commits and pushes finished work, writes a handoff doc with the exact command to pick up where you left off, then cleans up. It also ships a Python script that reads local Claude Code transcripts to estimate how close each usage window is to its limit. My first tool built for other developers to install and use, not a graded exercise.
+
+`Claude Code skill` `Python` `Bash` `Git automation` `MIT`
+
+---
+
 ### DNI Checker &nbsp;·&nbsp; [repo](https://github.com/iulian640/dni-checker) · [live demo](https://iulian640.github.io/dni-checker/)
 
 Spanish DNI validation tool built with vanilla JS ES Modules. Each validation concern lives in its own file instead of one tangled script. Covered by 14 Vitest unit tests that exercise every valid and invalid input.
