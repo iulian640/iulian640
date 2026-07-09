@@ -74,7 +74,7 @@ Landing page for a psychology practice, built with AI assistance. That was the p
 
 My fullstack capstone, **[IulianLounge](https://github.com/iulian640/iulianlounge-backend)**: a Java/Spring Boot REST API ([backend](https://github.com/iulian640/iulianlounge-backend)) powering a 3D speakeasy on the web ([frontend](https://github.com/iulian640/iulianlounge-frontend), Vue 3 + Three.js). Managed with Jira sprints, built with TDD.
 
-Also deepening SQL and web accessibility through the Factoría F5 curriculum. Every project I ship gets tests.
+Also deepening SQL and web accessibility through the Factoría F5 curriculum.
 
 ---
 
