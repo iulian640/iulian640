@@ -2,7 +2,7 @@
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
-I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack bootcamp in Asturias, across the whole stack: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. Everything I build already ships with tests.
+I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Asturias, across the whole stack: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. Everything I build already ships with tests.
 
 ---
 
