@@ -2,7 +2,7 @@
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
-Before I wrote code, I ran a kitchen. That job taught me precision and how to stay calm when everything goes wrong at once. Both transfer directly into software. I changed paths on purpose, and now I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Asturias: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. I already write tested projects.
+I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack bootcamp in Asturias, across the whole stack: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. Everything I build already ships with tests.
 
 ---
 
@@ -62,27 +62,11 @@ Videogame collection SPA built with Vue.js by a team of 4 at Factoría F5: auth 
 
 ---
 
-### Employee Dashboard &nbsp;·&nbsp; [repo](https://github.com/iulian640/employee-dashboard) · [live demo](https://iulian640.github.io/employee-dashboard/)
-
-Admin dashboard for employee management: authentication flow with form validation, data fetched from an external API, A–Z sorting, and a responsive UI. Tested at two levels: unit tests with Vitest, and end-to-end tests with Playwright that cover full user journeys.
-
-`JavaScript` `ES Modules` `External API` `Form validation` `Vitest` `Playwright`
-
----
-
 ### Psicología Landing &nbsp;·&nbsp; [repo](https://github.com/iulian640/psicologa-landing) · [live demo](https://psicologialanding.netlify.app/)
 
 Landing page for a psychology practice, built with AI assistance. That was the point: I wanted hands-on experience with a stack I had not yet used in training, working with an AI tool the way a professional would. The result is a deployed site with a serverless contact form via Resend, scroll animations with Motion, GDPR pages, and SEO foundations.
 
 `Next.js 15` `TypeScript` `Tailwind CSS v4` `Motion` `Resend` `GDPR` `SEO`
-
----
-
-### Little Red Riding Hood &nbsp;·&nbsp; [repo](https://github.com/iulian640/red-riding-hood) · [live demo](https://iulian640.github.io/red-riding-hood/)
-
-Magazine-style retelling of the classic tale. Built to nail the fundamentals: semantic HTML5, CSS Grid layout, drop caps, and responsive typography.
-
-`HTML5` `CSS Grid` `Responsive typography` `Semantic markup`
 
 ---
 
