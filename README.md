@@ -2,7 +2,7 @@
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
-Before I wrote code, I ran a kitchen. That job taught me precision and how to stay calm when everything goes wrong at once. Both transfer directly into software. I changed paths on purpose, and now I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Asturias: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. I already write tested, real-world projects.
+Before I wrote code, I ran a kitchen. That job taught me precision and how to stay calm when everything goes wrong at once. Both transfer directly into software. I changed paths on purpose, and now I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Asturias: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. I already write tested projects.
 
 ---
 
