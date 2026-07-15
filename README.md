@@ -1,4 +1,4 @@
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/> #Iulian Timofei <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/>
+# Iulian Timofei <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/>
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
