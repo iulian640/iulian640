@@ -1,6 +1,6 @@
 # Iulian Timofei <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/>
 
-**Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
+**Fullstack developer in training** · Oviedo, Asturias, Spain · Open to new roles in Spain or remote in Europe
 
 I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Asturias, across the whole stack: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. Everything I build already ships with tests.
 
