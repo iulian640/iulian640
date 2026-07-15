@@ -68,6 +68,8 @@ Landing page for a psychology practice, built with AI assistance. That was the p
 
 `Next.js 15` `TypeScript` `Tailwind CSS v4` `Motion` `Resend` `GDPR` `SEO`
 
+<img src="metrics.plugin.pagespeed.svg" alt="Google PageSpeed report for the live site, updated weekly" width="480"/>
+
 ---
 
 ## Currently building <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="28" height="28" alt=""/>
