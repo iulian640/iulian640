@@ -68,7 +68,9 @@ Landing page for a psychology practice, built with AI assistance. That was the p
 
 `Next.js 15` `TypeScript` `Tailwind CSS v4` `Motion` `Resend` `GDPR` `SEO`
 
-<img src="metrics.plugin.pagespeed.svg" alt="Google PageSpeed report for the live site, updated weekly" width="480"/>
+<div align="center">
+    <img src="metrics.plugin.pagespeed.svg" alt="Google PageSpeed report for the live site, updated weekly" width="400"/>
+</div>
 
 ---
 
