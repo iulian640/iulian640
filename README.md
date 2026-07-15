@@ -68,7 +68,9 @@ Landing page for a psychology practice, built with AI assistance. That was the p
 
 `Next.js 15` `TypeScript` `Tailwind CSS v4` `Motion` `Resend` `GDPR` `SEO`
 
+<!-- Pending PAGESPEED_TOKEN secret; re-enable once the workflow runs green:
 <img src="metrics.plugin.pagespeed.svg" alt="Google PageSpeed report for the live site, updated weekly" width="480"/>
+-->
 
 ---
 
