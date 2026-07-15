@@ -1,4 +1,4 @@
-# Iulian Timofei
+# Iulian Timofei <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/>
 
 **Fullstack developer in training** · Oviedo, Asturias, Spain · Open to junior roles in Spain or remote in Europe
 
@@ -85,3 +85,15 @@ I am looking for my first junior developer role, in Spain or remote in Europe.
 - **Email:** [iuliantim21@gmail.com](mailto:iuliantim21@gmail.com)
 - **LinkedIn:** [linkedin.com/in/iulian-timofei-06a816242](https://www.linkedin.com/in/iulian-timofei-06a816242/)
 - **Location:** Oviedo, Asturias, Spain
+
+---
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="28" height="28" alt="parrot coding on a laptop"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="28" height="28" alt="database parrot"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="40" height="28" alt="parrot fixing bugs"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="28" height="28" alt="science parrot"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="28" height="28" alt="60fps parrot"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="28" height="28" alt="open source parrot"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="28" height="28" alt="deal with it parrot"/>
+</div>
