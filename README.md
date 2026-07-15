@@ -46,11 +46,11 @@ An open-source [Claude Code](https://claude.com/claude-code) skill I built to fi
 
 ---
 
-### DNI Checker &nbsp;·&nbsp; [repo](https://github.com/iulian640/dni-checker) · [live demo](https://iulian640.github.io/dni-checker/)
+### threejs-webgpu-skill &nbsp;·&nbsp; [repo](https://github.com/iulian640/threejs-webgpu-skill)
 
-Spanish DNI validation tool built with vanilla JS ES Modules. Each validation concern lives in its own file instead of one tangled script. Covered by 14 Vitest unit tests that exercise every valid and invalid input.
+A Claude skill for building Three.js WebGPU applications, written while building one. Every performance claim was measured on a production scene (~600 meshes, 35 lights, MRT bloom) and every API claim checked against the three.js r185 source, with a tag system that separates measured numbers from standard practice. Ships a diagnostic bench: startup timeline, FPS measurement with a noise floor, light bisection.
 
-`JavaScript` `ES Modules` `Modular architecture` `Input validation` `Vitest`
+`Three.js` `WebGPU` `TSL` `Performance measurement` `Claude Code skill` `Technical writing`
 
 ---
 
