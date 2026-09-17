@@ -1,8 +1,8 @@
 # Iulian Timofei <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/>
 
-**Fullstack developer in training** · Oviedo, Asturias, Spain · Open to new roles in Spain or remote in Europe
+**Junior fullstack developer** · Oviedo, Asturias, Spain · Open to roles in Spain or remote in Europe
 
-I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Asturias, across the whole stack: Java and Spring Boot on the backend, Vue.js on the frontend, SQL underneath. Everything I build already ships with tests.
+Java and Spring Boot on the backend, Vue on the frontend, SQL underneath. I trained full-time at [Factoría F5](https://factoriaf5.org/) in Asturias from May to October 2026 and I am looking for my first junior role.
 
 ---
 
@@ -31,34 +31,41 @@ I train full-time at [Factoría F5](https://factoriaf5.org/)'s fullstack in Astu
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
 ## Projects
 
-### safe-harbor &nbsp;·&nbsp; [repo](https://github.com/iulian640/claude-safe-harbor)
-
-An open-source [Claude Code](https://claude.com/claude-code) skill I built to fix a problem I kept hitting: a long AI-assisted session dies on a usage or token limit and takes every unsaved change with it. safe-harbor stops on purpose before that happens. It commits and pushes finished work, writes a handoff doc with the exact command to pick up where you left off, then cleans up. It also ships a Python script that reads local Claude Code transcripts to estimate how close each usage window is to its limit. My first tool built for other developers to install and use, not a graded exercise.
-
-`Claude Code skill` `Python` `Bash` `Git automation` `MIT`
-
----
-
-### threejs-webgpu-skill &nbsp;·&nbsp; [repo](https://github.com/iulian640/threejs-webgpu-skill)
-
-A Claude skill for building Three.js WebGPU applications, written while building one. Every performance claim was measured on a production scene (~600 meshes, 35 lights, MRT bloom) and every API claim checked against the three.js r185 source, with a tag system that separates measured numbers from standard practice. Ships a diagnostic bench: startup timeline, FPS measurement with a noise floor, light bisection.
-
-`Three.js` `WebGPU` `TSL` `Performance measurement` `Claude Code skill` `Technical writing`
-
----
-
-### FPS — Frontenders Programando Sin Dormir &nbsp;·&nbsp; [repo](https://github.com/iulian640/project-p5-digital-academy-team1-the-univers-of-things) · [live demo](https://factoriaf5-asturias.github.io/project-p5-digital-academy-team1-the-univers-of-things/)
+### FPS &nbsp;·&nbsp; [repo](https://github.com/iulian640/project-p5-digital-academy-team1-the-univers-of-things) · [live demo](https://factoriaf5-asturias.github.io/project-p5-digital-academy-team1-the-univers-of-things/)
 
 Videogame collection SPA built with Vue.js by a team of 4 at Factoría F5: auth with user/admin roles, favourites CRUD with star ratings, and avatar upload to Firebase Storage. We worked the way a professional team does: sprint planning, daily standups, Git branching, pull request reviews, and merge conflict resolution.
 
 `Vue.js` `Agile workflow` `Git branching` `Pull requests` `Team collaboration`
+
+---
+
+### vue-multitool &nbsp;·&nbsp; [repo](https://github.com/iulian640/vue-multitool) · [live demo](https://iulian640.github.io/vue-multitool/)
+
+Calculator, currency converter and weather app in one Vue 3 SPA. Graded exercise: 38 unit tests with Vitest, 4 end-to-end tests with Playwright, CI on GitHub Actions, deployed to GitHub Pages.
+
+`Vue 3` `Vite` `Vitest` `Playwright` `GitHub Actions`
+
+---
+
+### Exercism Java track &nbsp;·&nbsp; [repo](https://github.com/iulian640/exercism) · [profile](https://exercism.org/profiles/iulian640)
+
+Solved by hand, no AI: I read the exercise, write the code, run the tests. One commit per exercise, and the README keeps a note of what I got wrong along the way and how I fixed it. If you want to see how I write Java on my own, start here.
+
+`Java` `JUnit 5` `Gradle`
+
+---
+
+### MeDeben &nbsp;·&nbsp; [repo](https://github.com/iulian640/medeben)
+
+Free app for hospitality workers in Spain: which collective agreement applies to you, what your payslip should say, and whether your hours add up at the end of the month. 55 agreements transcribed from the official gazettes, every figure linked to its article. Java/Spring backend, Vue frontend, Capacitor for Android. Most of the code is written by Claude Code under my direction; the product, the research and the checks with real workers are mine. The README says exactly which is which.
+
+`Java` `Spring Boot` `Vue 3` `Capacitor` `PostgreSQL` `GDPR` `AGPL-3.0`
 
 ---
 
@@ -74,11 +81,13 @@ Landing page for a psychology practice, built with AI assistance. That was the p
 
 ---
 
-## Currently building <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="28" height="28" alt=""/>
+### safe-harbor &nbsp;·&nbsp; [repo](https://github.com/iulian640/claude-safe-harbor)
 
-My fullstack capstone, **[IulianLounge](https://github.com/iulian640/iulianlounge-backend)**: a Java/Spring Boot REST API ([backend](https://github.com/iulian640/iulianlounge-backend)) powering a 3D speakeasy on the web ([frontend](https://github.com/iulian640/iulianlounge-frontend), Vue 3 + Three.js). Managed with Jira sprints, built with TDD.
+An open-source [Claude Code](https://claude.com/claude-code) skill I built to fix a problem I kept hitting: a long AI-assisted session dies on a usage or token limit and takes every unsaved change with it. safe-harbor stops on purpose before that happens. It commits and pushes finished work, writes a handoff doc with the exact command to pick up where you left off, then cleans up. My first tool built for other developers to install and use.
 
-Also deepening SQL and web accessibility through the Factoría F5 curriculum.
+`Claude Code skill` `Python` `Bash` `Git automation` `MIT`
+
+Also: [threejs-webgpu-skill](https://github.com/iulian640/threejs-webgpu-skill), a Claude skill for Three.js WebGPU where every performance claim was measured on a production scene and every API claim checked against the r185 source.
 
 ---
 
