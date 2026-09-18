@@ -1,6 +1,6 @@
 # Iulian Timofei <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" height="32" alt=""/>
 
-**Junior fullstack developer** · Oviedo, Asturias, Spain · Open to roles in Spain or remote in Europe
+**Junior fullstack developer** · Oviedo, Asturias, Spain · Available from October 2026 · Open to roles in Spain or remote in Europe
 
 Java and Spring Boot on the backend, Vue on the frontend, SQL underneath. I trained full-time at [Factoría F5](https://factoriaf5.org/) in Asturias from May to October 2026 and I am looking for my first junior role.
 
