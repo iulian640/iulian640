@@ -53,7 +53,7 @@ Calculator, currency converter and weather app in one Vue 3 SPA. Graded exercise
 
 ### Exercism Java track &nbsp;·&nbsp; [repo](https://github.com/iulian640/exercism) · [profile](https://exercism.org/profiles/iulian640)
 
-Solved by hand, no AI: I read the exercise, write the code, run the tests. One commit per exercise, and the README keeps a note of what I got wrong along the way and how I fixed it. If you want to see how I write Java on my own, start here.
+Solved by hand, no AI: I read the exercise, write the code, run the tests.
 
 `Java` `JUnit 5` `Gradle`
 
